@@ -5,7 +5,7 @@ Ce projet est basé sur les parcours d'arbres, et consiste à simuler la mission
 dragon qui doit tout d'abord pénétrer par l’entrée du labyrinthe, rechercher 
 les Plans du Monde jusqu’à leur découverte, et tracer le chemin qu'il a parcouru
 en le mémorisant, ce de la position de l'entrée du labyrinthe à sa position actuelle.
-## II- Sprint terminés
+## II- Sprints terminés
 Sprint 1 ✔
 Sprint 2 ✔
 Sprint 3 ✔
