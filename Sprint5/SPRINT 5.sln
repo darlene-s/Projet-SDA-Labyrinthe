@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPRINT 3", "SPRINT 3\SPRINT 3.vcxproj", "{838EC4A0-5080-4168-B57C-902CB6BCF045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Debug|x64.ActiveCfg = Debug|x64
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Debug|x64.Build.0 = Debug|x64
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Debug|x86.ActiveCfg = Debug|Win32
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Debug|x86.Build.0 = Debug|Win32
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Release|x64.ActiveCfg = Release|x64
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Release|x64.Build.0 = Release|x64
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Release|x86.ActiveCfg = Release|Win32
+		{838EC4A0-5080-4168-B57C-902CB6BCF045}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD7E9DA-D679-4F9F-9A42-D89BFE2C5524}
+	EndGlobalSection
+EndGlobal
