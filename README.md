@@ -2,7 +2,7 @@
 Projet en C++ : Dédale sur un ruban de Möbius à pavage orthogonal
 ## I- A propos
 Ce projet est basé sur les parcours d'arbres, et consiste à simuler la mission d'un
-dragon qui doit tout d'abord pénétrer par l’entrée du labyrinthe, rechercher 
+dragon qui doit tout d'abord accéder à l’entrée du labyrinthe, rechercher 
 les Plans du Monde jusqu’à leur découverte, et tracer le chemin qu'il a parcouru
 en le mémorisant, ce de la position de l'entrée du labyrinthe à sa position actuelle.
 ## II- Sprints terminés
